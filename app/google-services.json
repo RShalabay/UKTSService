@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337776494616",
+    "project_id": "ukts-repairs",
+    "storage_bucket": "ukts-repairs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337776494616:android:3d8225d2ca895cda969b6d",
+        "android_client_info": {
+          "package_name": "kz.ukteplo.uktsrepairs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337776494616-n3fmo9nkmpn5vuvjs8e0a3fat5rdod1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvosQlA26v_l5SuF_-KmAWKMLWO2Xg1hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337776494616-n3fmo9nkmpn5vuvjs8e0a3fat5rdod1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

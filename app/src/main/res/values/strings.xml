@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">УКТС ремонты</string>
+    <string name="input_login">Логин</string>
+    <string name="input_pass">Пароль</string>
+    <string name="input_cnfrm_pass">Подтверждение пароля</string>
+    <string name="e_mail">E-mail</string>
+    <string name="button_reg">Регистрация</string>
+    <string name="button_login">Войти</string>
+    <string name="error">error</string>
+    <string name="reg_lbl">Регистрация</string>
+    <string name="login_lbl">Войти</string>
+    <string name="repair_lbl">Карточка ремонта</string>
+    <string name="rpr_txt_lbl">Описание работ</string>
+    <string name="d_b_lbl">Дата начала рабоот</string>
+    <string name="d_e_lbl">Дата окончания рабоот</string>
+    <string name="distr_lbl">Район</string>
+    <string name="route_lbl">Магистраль</string>
+    <string name="id_lbl">ID плана ремонта</string>
+    <string name="reason_lbl">Причина отказа</string>
+    <string name="appr_lbl">Согласовать</string>
+    <string name="fail_lbl">Отказать</string>
+    <string name="btn_save_lbl">Сохранить</string>
+    <string name="msg_token_fmt" translatable="false">%s</string>
+    <string name="lbl_cancel">Отменить</string>
+</resources>
